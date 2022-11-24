@@ -56093,7 +56093,7 @@ s=$.agY()
 $.aaC().toString
 r=A.bO(b).a4.e
 r=A.md("@mohammedtalhas",r==null?o:r.my(B.bY,B.a0),o,o)
-q=A.S9("https://raw.githubusercontent.com/Mohammedtalhas/presentation/main/assets/assets/icons/instagram_icon.png",32)
+q=A.S9("https://raw.githubusercontent.com/Mohammedtalhas/presentation/main/assets/assets/icons/Instagram_icon.png",32)
 p=A.bO(b).a4.e
 return new A.iF(B.eg,A.En(A.a([n,B.cF,m,B.cF,new A.vt(32,new A.iB(s,"https://raw.githubusercontent.com/Mohammedtalhas/presentation/main/assets/assets/icons/github_icon.svg",o,o),o,o),B.cF,r,B.cF,q,B.cF,A.md("@mohammedtalha.s",p==null?o:p.my(B.bY,B.a0),o,o)],t.E),B.c0,B.DQ,B.bD),o)}}
 A.Ck.prototype={
